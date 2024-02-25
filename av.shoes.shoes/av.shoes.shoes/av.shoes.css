@@ -441,7 +441,7 @@ input[type="tel1"]:focus{
     .nav-bar-list a {
         display: inline-block;
     margin-top: 10px !important;
-    color: #00395b;
+    color: rgb(0, 208, 255);
     font-weight: 700;
     text-align: center;
 
