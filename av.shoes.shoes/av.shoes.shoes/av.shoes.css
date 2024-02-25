@@ -459,7 +459,9 @@ input[type="tel1"]:focus{
 
     }
 
-  
+  .small-number-text{
+    font-size: 10px;
+  }
   .footer-text{
     font-size: 30px;
   }
