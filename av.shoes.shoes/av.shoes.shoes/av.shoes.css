@@ -415,6 +415,7 @@ input[type="tel1"]:focus{
         transition: right 0.6s ease;
         right: -250px;
         top: 0;
+        margin-right: 0 !important;
     }
  
    .background-image::before{
@@ -436,12 +437,13 @@ input[type="tel1"]:focus{
         background-color: #ecdbbb;
         height: 170px;
        border-radius: 20px;
+margin-right: 0 !important;
     }
     
     .nav-bar-list a {
         display: inline-block;
     margin-top: 10px !important;
-    color: rgb(0, 208, 255);
+    color: #00395b;
     font-weight: 700;
     text-align: center;
 
