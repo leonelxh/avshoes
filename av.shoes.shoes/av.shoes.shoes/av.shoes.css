@@ -418,7 +418,6 @@ input[type="tel1"]:focus{
     }
  
    .background-image::before{
-    background-size: cover;
    } 
    .toggleNav{
         display: block;
