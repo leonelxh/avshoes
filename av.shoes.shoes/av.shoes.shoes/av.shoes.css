@@ -407,6 +407,9 @@ input[type="tel1"]:focus{
 .toggleNav{
     display: none;
 }
+.footer-text{
+    font-size: 20px;
+}
 @media only screen and (max-width: 768px) {
     .nav-bar {
         flex-direction: column;
