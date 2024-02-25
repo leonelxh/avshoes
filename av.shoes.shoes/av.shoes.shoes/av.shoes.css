@@ -166,6 +166,9 @@ margin-top: 90px;
     margin-bottom: 50px;
     z-index: 3;
 }
+.products-images{
+    border-radius: 20px;
+}
 .product1{
     display: flex;
     background-color: rgba(177, 158, 103, 0.349);
