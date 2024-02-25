@@ -407,9 +407,7 @@ input[type="tel1"]:focus{
 .toggleNav{
     display: none;
 }
-.footer-text{
-    font-size: 20px !important;
-}
+
 @media only screen and (max-width: 768px) {
     .nav-bar {
         flex-direction: column;
@@ -463,6 +461,9 @@ input[type="tel1"]:focus{
 
   .small-number-text{
     font-size: 10px;
+  }
+  .footer-text{
+    font-size: 30px;
   }
     .home-btn{
         padding: 7px !important; 
