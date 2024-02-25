@@ -457,7 +457,9 @@ input[type="tel1"]:focus{
 
     }
 
-  
+  .small-number-text{
+    font-size: 10px;
+  }
     .home-btn{
         padding: 7px !important; 
         width: fit-content !important;
