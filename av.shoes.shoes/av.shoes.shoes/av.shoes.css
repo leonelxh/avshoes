@@ -423,7 +423,7 @@ input[type="tel1"]:focus{
    } 
    .toggleNav{
         display: block;
-        margin-left: 140px;
+        margin-left: 160px;
         font-size: 40px;
         margin-top: 10px;
     }
