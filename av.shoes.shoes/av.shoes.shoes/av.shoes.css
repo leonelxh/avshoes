@@ -417,9 +417,7 @@ input[type="tel1"]:focus{
         margin-right: 0 !important;
     }
  
-   .background-image::before{
-    background-size: auto;
-   } 
+   
    .toggleNav{
         display: block;
         margin-left: 160px;
