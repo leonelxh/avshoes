@@ -438,6 +438,7 @@ input[type="tel1"]:focus{
         height: 170px;
        border-radius: 20px;
 margin-right: 0 !important;
+padding: 0 !important;
     }
     
     .nav-bar-list a {
