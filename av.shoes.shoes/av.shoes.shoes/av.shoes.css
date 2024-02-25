@@ -408,7 +408,7 @@ input[type="tel1"]:focus{
     display: none;
 }
 .footer-text{
-    font-size: 20px;
+    font-size: 20px !important;
 }
 @media only screen and (max-width: 768px) {
     .nav-bar {
