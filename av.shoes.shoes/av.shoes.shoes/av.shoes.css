@@ -19,7 +19,7 @@ html{
     background-image: url(Wallpaper\ Jordan\ shoes.jfif);
     z-index: -1;
     content: "";
-    position: relative;
+    position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
@@ -413,11 +413,6 @@ input[type="tel1"]:focus{
 }
 
 @media only screen and (max-width: 768px) {
- .background-image::before{
-    background-size: contain;
-    background-repeat: no-repeat;
-width: 100%;
- }
     .nav-bar {
         flex-direction: column;
         align-items: center;
