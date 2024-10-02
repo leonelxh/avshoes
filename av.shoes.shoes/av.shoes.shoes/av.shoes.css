@@ -414,7 +414,7 @@ input[type="tel1"]:focus{
 
 @media only screen and (max-width: 768px) {
     .background-image::before{
-    background-size: cover;
+    background-size: contain;
     }
     .nav-bar {
         flex-direction: column;
