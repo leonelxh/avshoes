@@ -9,7 +9,7 @@ html{
     scroll-behavior:smooth;
 }
 .logo-img{
-    position: fixed;
+    position: relative;
     padding: 0;
     margin-left: 0;
 }
