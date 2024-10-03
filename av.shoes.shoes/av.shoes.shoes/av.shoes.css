@@ -421,7 +421,9 @@ input[type="tel1"]:focus{
         z-index: 999;
         margin-right: 0 !important;
     }
- 
+ .logo-img{
+    margin-left: 0 !important
+ }
    
    .toggleNav{
         display: block;
