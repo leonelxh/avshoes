@@ -11,7 +11,7 @@ html{
 .logo-img{
     position: relative;
     padding: 0;
-    margin-left: 0;
+    margin-left: 0 !important;
 }
 .body{
     margin-top: 20px;
